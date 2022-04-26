@@ -7,6 +7,7 @@
 3. [Nature, Noida](https://nehalsin.github.io/nature-noida-2022/)
 4. [Nature, Virkhan](https://nehalsin.github.io/nature-virkhan-2022/)
 5. [Nature, Kausani](https://nehalsin.github.io/nature-kausani-2022/)
+6. [Nature, Eiri Jhal, Gwaldam](https://nehalsin.github.io/nature-eirijhal-2022/)
 
 ## 2021
 
