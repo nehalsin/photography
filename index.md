@@ -8,6 +8,7 @@
 4. [Nature, Virkhan](https://nehalsin.github.io/nature-virkhan-2022/)
 5. [Nature, Kausani](https://nehalsin.github.io/nature-kausani-2022/)
 6. [Nature, Eiri Jhal, Gwaldam](https://nehalsin.github.io/nature-eirijhal-2022/)
+7. [Nature, Agastyamuni](https://nehalsin.github.io/nature-agastyamuni-2022/)
 
 ## 2021
 
